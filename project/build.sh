@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-cd project
-
 pip install -r requirements.txt
 
 
